@@ -5,4 +5,5 @@
 ## Results
 ### 2017 vs. 2018 perfomance 
 #### In 2017 the stock return was overall very positive. There was only one stock, TERP, that had an overall negative return for the year. This can be seen in the following image. The average return for the 12 stocks this year was 67.3%. The average total daily volume for all  of the stocks was 263,886,592.
+![2017 Stock Analysis](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/2017%20stocks.png)
 #### In 2018, there were only 2 stock returns that were positive. ENPH and RUN were the only 2 positive returns and they ended up with returns 81.92% and 83.95% respectively. All of the other stocks had negative returns varying from -3.54% to -62.60%. The overall average return for this year is -8.51%. The average total daily volume for this year is 275,503,183. 
