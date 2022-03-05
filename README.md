@@ -19,4 +19,8 @@
 #### Advantages
 1. Refactoring code allows us to clean up the code which makes it easier to work with and allows us to go back later and add code or create updates. 
 2. Refactoring code also allows for the code to run faster. When running a large code this allows for time to be saved and it also will allow for money to be saved as well. Because it is also readable which allows for the company to save more money because they do not have to spend more time running code or going through the code in the future.
-3. 
+3. Removing unnecessary code will allow the code to be scaled up in the future much more easily.
+#### Disadvantages
+1. Refactoring code can be very time-consuming and after you start it could take more time than you thought.
+2. Refactoring code can cost more money because someone has to take time to go through and do it.
+3. It can be hard for someone who is not the writer to go through and refactor the code if they do not understand it or if the code is not clear to begin with.
