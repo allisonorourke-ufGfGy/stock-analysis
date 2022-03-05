@@ -14,3 +14,9 @@
 #### During the first run through of code we added in a line that allowed us to look at the time that it took to run the code. Before we refactored the code the time it took to run the analysis on the 2017 data was .9375 seconds, as seen below. The time it took to run the 2018 data was .8398438 seconds, as seen below. 
 ![Time Run 2017](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/Time%20run%20original%202017.png)
 ![Time Run 2018](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/Time%20run%20original%202018.png)
+## Summary
+### Advantages and Disadvantages
+#### Advantages
+1. Refactoring code allows us to clean up the code which makes it easier to work with and allows us to go back later and add code or create updates. 
+2. Refactoring code also allows for the code to run faster. When running a large code this allows for time to be saved and it also will allow for money to be saved as well. Because it is also readable which allows for the company to save more money because they do not have to spend more time running code or going through the code in the future.
+3. 
