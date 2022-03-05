@@ -1,7 +1,7 @@
 # Stock Analysis for Module 2
 ## Introduction
 ### Purpose
-#### The purpose of this project was to analyze the performance of a number of different stocks to determine which stock would be most beneficial to invest in. This project specifically looked at 12 stocks and how they preformed in 2 years. This project looked to refactor different code to make the code run more efficiently and faster.
+#### The purpose of this project was to analyze the performance of a number of different stocks to determine which stock would be most beneficial to invest in. This project specifically looked at 12 stocks and how they preformed in 2 years. This project looked to refactor different code to make the code run more efficiently and faster. Refactoring code is a very important part of coding. It is done through taking existing code and changing it so that it is more efficient and can be run at faster times. When refactoring code you are not necessiarly looking to add new code or new capabilities.
 ### Background
 #### You have afriend named Steve whose parents asked him to invest some of their money on stocks. The parents met at a Dairy Queen so they want to invest in a stock called DQ. Steve requests your help to run analysis on different stocks and their performance to see if it is smart to invest their money with that company. His parents requested that the money be invested in a green company that focuses on renewable energy. Steve wants to look at 8 different companies to see how their stock did over 2 years.
 ## Results
