@@ -11,9 +11,11 @@
 #### In 2018, there were only 2 stock returns that were positive. ENPH and RUN were the only 2 positive returns and they ended up with returns 81.92% and 83.95% respectively. All of the other stocks had negative returns varying from -3.54% to -62.60%. The overall average return for this year is -8.51%. The average total daily volume for this year is 275,503,183. 
 ![2018 Stock Analysis](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/2018%20Stock%20performance.png)
 ### Time run comparison
-#### During the first run through of code we added in a line that allowed us to look at the time that it took to run the code. Before we refactored the code the time it took to run the analysis on the 2017 data was .9375 seconds, as seen below. The time it took to run the 2018 data was .8398438 seconds, as seen below. 
+#### During the first run through of code we added in a line that allowed us to look at the time that it took to run the code. Before we refactored the code the time it took to run the analysis on the 2017 data was 1.179688 seconds, as seen below. The time it took to run the 2018 data was 1.21875 seconds, as seen below. 
 ![Time Run 2017](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/Resources/VBA_Challenge_starting%20time%202017.png)
 ![Time Run 2018](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/Resources/VBA_Challenge_timerun_2018_start.png)
+#### After refactoring this code, the times for each of the time sheets went down. The time it took to run the analysis on the 2017 data was .9375 seconds, as seen below. The time it took to run the 2018 data was .8398438 seconds, as seen below. 
+![Time Run 2017 Final](
 ## Summary
 ### Advantages and Disadvantages
 #### Advantages
