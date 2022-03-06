@@ -15,7 +15,8 @@
 ![Time Run 2017](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/Resources/VBA_Challenge_starting%20time%202017.png)
 ![Time Run 2018](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/Resources/VBA_Challenge_timerun_2018_start.png)
 #### After refactoring this code, the times for each of the time sheets went down. The time it took to run the analysis on the 2017 data was .9375 seconds, as seen below. The time it took to run the 2018 data was .8398438 seconds, as seen below. 
-![Time Run 2017 Final](
+![Time Run 2017 Final](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![Time Run 2018 Final](
 ## Summary
 ### Advantages and Disadvantages
 #### Advantages
