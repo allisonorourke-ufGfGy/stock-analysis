@@ -7,7 +7,8 @@
 ## Results
 ### Code Comparison
 #### Below is the code that was originally used to run the first analysis.
-![Before refactor 1](
+![Before refactor 1](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/Resources/Before%20refactor%201.png)
+![Before refactor 2](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/Resources/Before%20refactor%202.png)
 ### 2017 vs. 2018 perfomance 
 #### In 2017 the stock return was overall very positive. There was only one stock, TERP, that had an overall negative return for the year. This can be seen in the following image. The average return for the 12 stocks this year was 67.3%. The average total daily volume for all  of the stocks was 263,886,592.
 ![2017 Stock Analysis](https://github.com/allisonorourke-ufGfGy/stock-analysis/blob/main/Resources/2017%20stocks.png)
